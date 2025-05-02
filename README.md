@@ -66,7 +66,17 @@ Open `http://localhost:3000` in your browser.
 
 ## 📸 Screenshots
 
-> _You can add screenshots or demo GIFs here_
+<kbd>
+  <img src="./public/screenshot/1-screen.png" width="100%">
+</kbd>
+
+<kbd>
+  <img src="./public/screenshot/2-screen.png" width="100%">
+</kbd>
+
+<kbd>
+  <img src="./public/screenshot/3-screen.png" width="100%">
+</kbd>
 
 ---
 
